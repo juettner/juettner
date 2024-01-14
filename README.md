@@ -6,4 +6,4 @@ That said, I have worked on some really cool projects. I've worked and consulted
 
 Here's a pic of my best friend.
 
-![The handsomest brown dog you will ever see in your life](/assets/otis.jpeg)
+![The handsomest brown dog you will ever see in your life](/juettner/assets/otis.jpeg)
