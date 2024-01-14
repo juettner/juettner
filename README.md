@@ -4,4 +4,6 @@ Lotta folks use this space to talk about thier experience and how they're a *str
 
 That said, I have worked on some really cool projects. I've worked and consulted for some of the largest companies in the world and I've helped start companies from scratch. It's been a helluva career so far. I've still got some miles in me before I buy that bar up north.
 
-That's it. Ni hao.
+Here's a pic of my best friend.
+
+![The handsomest brown dog you will ever see in your life](/juettner/assets/otis.jpeg)
