@@ -4,6 +4,6 @@ Lotta folks use this space to talk about thier experience and how they're a *str
 
 That said, I have worked on some really cool projects. I've worked and consulted for some of the largest companies in the world and I've helped start companies from scratch. It's been a helluva career so far. I've still got some miles in me before I buy that bar up north.
 
-Here's a pic of my best friend.
+Here's a picture of my dog, Otis. I met him at a bar in Northeast Minneapolis. He is the absolute best.
 
-![The handsomest brown dog you will ever see in your life](docs/assets/otis.jpeg?raw=true)
+![The handsomest brown dog you will ever see in your life](docs/assets/otis.png?raw=true)
