@@ -1,4 +1,4 @@
-Hello, friends! I'm  **[Chad](https://www.linkedin.com/in/juettner/)**.
+Hello, friends! I'm  **[Chad](https://chad.juettner.dev)**.
 
 Lotta folks use this space to talk about thier experience and how they're a *strategic thinker* and all sorts of nonsense. I'm actually kind of a dipshit. I've been doing all sorts of tech work for over a quarter-century and if anything I'm getting dumber.
 
