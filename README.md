@@ -28,7 +28,3 @@ Most of the photos here feature my dog, Otis. A few years ago I walked into Dust
       <img src="./images/chad-juettner-otis-patio-lap-nap.jpg" alt="Chad Juettner with his dog Otis napping on his lap at a patio restaurant in Minneapolis"/>
     </td>
   </tr>
-</table>
-    <td>
-      <img src="./images/chad-juettner-otis-patio-lap-nap.jpg" alt="Chad Juettner with his dog Otis napping on his lap at a patio restaurant in Minneapolis"/>
-    </td>
