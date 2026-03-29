@@ -1,12 +1,12 @@
 # Hey, I'm Chad Juettner
 
-**Software Developer & Consultant | Minneapolis, MN | 25+ Years Building Software**
+**Software Developer & Consultant | Minneapolis, MN | 25+ Years Building Things**
 
-Chad Juettner has been shipping code for 25+ years—Fortune 500 to “we’ll figure out payroll next month.”
+Chad Juettner has been shipping code for 25+ years, from Fortune 50 companies to “we’ll figure out payroll next month” startups.
 
-Now it’s mostly AI: agentic systems, experiments, and software that feels alive again.
+Nowadays it’s mostly AI: agentic systems, experiments, baseball analytics, and software that feels alive again.
 
-Most of the photos here feature my dog, Otis. A few years ago I walked into Dusty's Bar in Northeast Minneapolis after a Twins game, I walked out with a dog. He still has no idea what I do for a living.
+Most of the photos here feature my dog, Otis. A few years ago I walked into Dusty's Bar in Northeast Minneapolis after a Twins game for a beer, I walked out with a dog. He still has no idea what I do for a living.
 
 <table>
   <tr>
