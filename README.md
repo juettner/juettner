@@ -4,7 +4,7 @@
 
 Chad Juettner has been shipping code for 25+ years, from Fortune 50 companies to “we’ll figure out payroll next month” startups.
 
-Nowadays it’s mostly AI: agentic systems, experiments, baseball analytics, and software that feels alive again.
+Nowadays it’s mostly AI: agentic systems, experiments, baseball analytics, and dumb shit.
 
 Most of the photos here feature my dog, Otis. A few years ago I walked into Dusty's Bar in Northeast Minneapolis after a Twins game for a beer, I walked out with a dog. He still has no idea what I do for a living.
 
